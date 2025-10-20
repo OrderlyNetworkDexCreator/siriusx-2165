@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "TronX DEX",
+  "VITE_ORDERLY_BROKER_NAME": "TronX",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "42161,10,8453,1,56,900900900",
@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "84cdc6fa45e0f73a50a0cd1e584f4805",
-  "VITE_APP_NAME": "TronX DEX",
+  "VITE_APP_NAME": "TronX",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
@@ -23,7 +23,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/TronXDEX",
-  "VITE_SEO_SITE_NAME": "TronX DEX",
+  "VITE_SEO_SITE_NAME": "TronX",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/siriusx-2165/",
   "VITE_SEO_SITE_LANGUAGE": "en",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dex, crypto, trading, defi, orderly, $ORDER, perps, perpetual futures, Tron",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "5",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00ff00\",\"downColor\":\"#ff0000\",\"pnlUpColor\":\"#00ff00\",\"pnlDownColor\":\"#ff0000\",\"chartBG\":\"#000000\"}"
 };
