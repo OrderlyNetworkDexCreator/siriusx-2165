@@ -5,7 +5,7 @@
   /* colors */
   --oui-color-primary: 255 0 0;
   --oui-color-primary-light: 255 100 100;
-  --oui-color-primary-darken: 255 0 0;
+  --oui-color-primary-darken: 251 255 0;
   --oui-color-primary-contrast: 255 255 255;
 
   --oui-color-link: 255 100 100;
@@ -47,9 +47,9 @@
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
 
-  --oui-color-trading-loss: 245 97 139;
+  --oui-color-trading-loss: 220 0 0;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 41 233 169;
+  --oui-color-trading-profit: 43 233 65;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
