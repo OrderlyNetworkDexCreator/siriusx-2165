@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "AetherX",
   "VITE_SEO_SITE_DESCRIPTION": "Perps DEX omnichain with low-latency orderbook and CEX-Level performance",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/siriusx-2165/",
+  "VITE_SEO_SITE_URL": "https://aetherxcapital.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
