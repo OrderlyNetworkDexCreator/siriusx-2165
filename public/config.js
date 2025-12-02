@@ -37,5 +37,8 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00ff00\",\"downColor\":\"#ff0000\",\"pnlUpColor\":\"#00ff00\",\"pnlDownColor\":\"#ff0000\",\"chartBG\":\"#000000\"}",
-  "VITE_ANALYTICS_SCRIPT": ""
+  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_SYMBOL_LIST": "",
+  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_WHITELISTED_IPS": ""
 };
