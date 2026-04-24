@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Perps DEX omnichain with low-latency orderbook and CEX-Level performance",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Vaults,Leaderboard,Rewards,Campaigns",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Vaults,Leaderboard,Rewards,Campaigns,Points",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "true",
